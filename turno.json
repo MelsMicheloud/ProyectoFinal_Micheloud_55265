@@ -1,0 +1,24 @@
+{
+    "turno":[
+        {
+            "diaTurno": "lunes",
+            "horaTurno": 15 
+        },
+        {
+            "diaTurno": "martes",
+            "horaTurno": 17 
+        },
+        {
+            "diaTurno": "miercoles",
+            "horaTurno": 14
+        },
+        {
+            "diaTurno": "jueves",
+            "horaTurno": 16
+        },
+        {
+            "diaTurno": "viernes",
+            "horaTurno": 18 
+        }
+    ]
+}
